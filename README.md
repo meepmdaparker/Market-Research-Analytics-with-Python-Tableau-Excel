@@ -1,1 +1,3 @@
-# Monte-Carlo-Simulation-Practice
+Market Research Analytics 
+Customer Segmentation
+Sentiment Analysis
